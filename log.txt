@@ -1,4 +1,4 @@
-Mon Sep 20 13:58:52 2021
+Mon Sep 20 18:16:45 2021
 Windows-10-10.0.19041
 Ren'Py 7.4.8.1895
  
@@ -11,19 +11,19 @@ Loading script took 0.13s
 Loading save slot metadata. took 0.01s
 Loading persistent took 0.00s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
-Running init code took 0.05s
-Loading analysis data took 0.02s
+Running init code took 0.04s
+Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\asus\\AppData\\Roaming/RenPy/backups\\Project A':
-Dump and make backups. took 0.07s
+Dump and make backups. took 0.05s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc. took 0.02s
 DPI scale factor: 1.250000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.25s
+Creating interface object took 0.23s
 Cleaning stores took 0.00s
 Init translation took 0.03s
 Build styles took 0.00s
@@ -35,7 +35,7 @@ Save pyanalysis. took 0.00s
 Save bytecode. took 0.02s
 Running _start took 0.00s
 Performance test:
-Interface start took 0.07s
+Interface start took 0.08s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
@@ -45,12 +45,5 @@ Vendor: 'NVIDIA Corporation'
 Renderer: 'GeForce MX130/PCIe/SSE2'
 Version: '4.6.0 NVIDIA 451.67'
 Display Info: None
-Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Screen sizes: virtual=(1280, 720) physical=(958, 539) drawable=(958, 539)
 Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.02s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
