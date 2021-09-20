@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 28, in script
+    m "Selamat Pagi"
+Exception: Sayer 'm' is not defined.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 28, in script
+    m "Selamat Pagi"
+  File "renpy/ast.py", line 681, in execute
+    who = eval_who(self.who, self.who_fast)
+  File "renpy/ast.py", line 574, in eval_who
+    raise Exception("Sayer '%s' is not defined." % who)
+Exception: Sayer 'm' is not defined.
+
+Windows-10-10.0.19041
+Ren'Py 7.4.8.1895
+Project A 1.0
+Mon Sep 20 13:49:36 2021
